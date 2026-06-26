@@ -1,18 +1,71 @@
-# 💫 About Me:
-🎓 B.Tech Electronics and Communication Engineering (ECE) student at Vishnu Institute of Technology, Bhimavaram.<br><br>💻 Passionate about Java, Data Structures & Algorithms, Embedded Systems, and VLSI Design.<br><br>🌱 Currently improving my programming skills by solving coding problems and building projects.<br><br>🚀 Aspiring VLSI Engineer, eager to learn, collaborate, and contribute to innovative technology.<br>
+```markdown
+# 💫 About Me
 
+Hi 👋, I'm **Pasam Haripriya**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HaripriyaPasam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:24pa5a0417@vishnu.edu.in) 
+🎓 B.Tech student in **Electronics and Communication Engineering (ECE)** at **Vishnu Institute of Technology, Bhimavaram**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Haripriya169-hm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Haripriya169-hm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Haripriya169-hm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💻 Passionate about **Java, Data Structures & Algorithms, Embedded Systems, and VLSI Design**.
+
+🌱 Currently improving my programming skills by solving coding problems and building real-world projects.
+
+🚀 Aspiring **VLSI Engineer** who is eager to learn, collaborate, and contribute to innovative technologies.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Haripriya169-hm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24pa5a0417@vishnu.edu.in)
+
+---
+
+# 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📚 Currently Learning
+
+- Java Programming
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Git & GitHub
+- Embedded Systems
+- VLSI Design
+
+---
+
+# 🚀 Projects
+
+- 🛡️ Automatic Soldier Health Monitoring System
+- 🍽️ Food Waste Reduction Project
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Haripriya169-hm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Haripriya169-hm&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haripriya169-hm&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+### ✍️ Quote
+
+> "Success comes from continuous learning, consistency, and hard work."
+
+---
+
+![](https://komarev.com/ghpvc/?username=Haripriya169-hm&label=Profile%20Views&color=0e75b6&style=flat)
+
+⭐ Thanks for visiting my profile!
+```
